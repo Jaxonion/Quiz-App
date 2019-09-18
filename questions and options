@@ -1,0 +1,55 @@
+question: 'How many wheels does a skateboard have?',
+    answerOptions: ['A skateboard has 1 wheel', 'A skateboard has 2 wheels', 'A skateboard has 3 wheels', 'A skateboard has 4 wheels'],
+
+  //Question 2
+
+    question: 'Who invented the kickflip Mctwist?',
+    answerOptions: ['Nyjah Houston', 'Bob Burnquist', 'Chris Joslin', 'Tony Hawk'],
+    
+
+//Question 3
+    question: 'What is it called when you do a 180 and at 90 degrees your back is facing the way you are headed?',
+    answerOptions: ['Backside 180', '180', 'Frontside 180', 'Inverted 180'],
+    
+ 
+  //Question 4
+  
+    question: 'What year was the first skateboard built?',
+    answerOptions: ['1952', '1967', '1963', '1971'],
+   
+  
+  //Question 5
+  
+    question: 'Whos is a famous skateboarder?',
+    answerOptions: ['Keanu Reeves', 'John Banks', 'Samuel L. Jackson', 'Tony Hawk'],
+    
+  
+  //Question 6
+  
+    question: 'Which of these tricks is not a real trick?',
+    answerOptions: ['Rock-and-Roll', 'Hard flip', 'Brockel flip', 'Swiss flip'],
+    
+ 
+  //Question 7
+  
+    question: 'Which of these is concidered unfashionable to do on a skateboard?',
+    answerOptions: ['Powerslide', 'Pushing mongo', 'Ride down stairs', 'Flip the board with your hand'],
+    
+  
+  //Question 8
+  
+    question: `what's it call when someone grabs their board by one of its trucks?`,
+    answerOptions: ['Top Grab', 'Mall Grab', 'Stale Grab', 'Truck Grab'],
+    
+  
+  //Question 9
+  
+    question: 'Which one of these is a basic trick?',
+    answerOptions: ['Lazer Flip', 'Ollie', 'Backside Heelflip', 'Tre Flip'],
+    
+  
+  //Question 10
+  
+    question: 'Which one of these would be concidered a vert obstacle?',
+    answerOptions: ['Stair Set', 'Handrail', 'Table', 'Quarter Pipe'],
+    
