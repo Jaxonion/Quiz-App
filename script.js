@@ -182,7 +182,7 @@ const STORE = [
       updateScore()
       $('.answer-response').hide()
       $('.response').text('You landed that one! That was narly!')
-      $('.response-picture').attr('src', 'Pictures/_MG_0926.jpg')
+      $('.response-picture').attr('src', '_MG_0926.jpg')
       amountAnsweredRight ++;
       console.log(`${amountAnsweredRight} is the amount answered right`)
       console.log(`${score} is the score`)
@@ -194,7 +194,7 @@ const STORE = [
       $('.answer-response').show()
       $('.correct-answer-is').text(STORE[pageNumber - 2].correctAnswer)
       $('.response').text(`You're Biffed on that one!`)
-      $('.response-picture').attr('src', 'Pictures/IMG_1101_Moment.jpg')
+      $('.response-picture').attr('src', 'IMG_1101_Moment.jpg')
       console.log(`${amountAnsweredRight} is the amount answered right`)
       return false
     }
