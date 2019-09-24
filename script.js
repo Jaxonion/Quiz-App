@@ -182,7 +182,7 @@ console.log(`Selected answer is ${$('.questions:checked').val()}`)
     updateScore()
     $('.answer-response').hide()
     $('.response').text('You landed that one! That was narly!')
-    $('.response-picture').attr('src', '__MG_0926.jpg')
+    $('.response-picture').attr('src', '_MG_0926.JPG')
     amountAnsweredRight ++;
     console.log(`${amountAnsweredRight} is the amount answered right`)
     console.log(`${score} is the score`)
